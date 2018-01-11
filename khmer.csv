@@ -35,53 +35,53 @@ sa-khmer,179F,Consonants,kh062,Letter,,"top, bottom",,uni179F,,khmer,,KHMER LETT
 ha-khmer,17A0,Consonants,kh064,Letter,,"top, bottom",,uni17A0,,khmer,,KHMER LETTER HA
 la-khmer,17A1,Consonants,kh066,Letter,,"top, bottom",,uni17A1,,khmer,,KHMER LETTER LA
 qa-khmer,17A2,Consonants,kh068,Letter,,"top, bottom",,uni17A2,,khmer,,KHMER LETTER QA
-ka-khmer.below,,Coeng forms/Below-base,kh070,Mark,Nonspacing,"_bottom, bottom",,uni17D21780,,khmer,,KHMER LETTER KA
-kha-khmer.below,,Coeng forms/Below-base,kh072,Mark,Nonspacing,"_bottom, bottom",,uni17D21781,,khmer,,KHMER LETTER KHA
-ko-khmer.below,,Coeng forms/Below-base,kh074,Mark,Nonspacing,"_bottom, bottom",,uni17D21782,,khmer,,KHMER LETTER KO
-kho-khmer.post,,Coeng forms/Post-base,kh076,Letter,Spacing,"top, bottom",,uni17D21783,,khmer,,KHMER LETTER KHO
-kho-khmer.post.low,,Coeng forms/Post-base,,Letter,Spacing,top,,uni17D21783.low,,khmer,,KHMER LETTER KHO
-ngo-khmer.below,,Coeng forms/Below-base,kh078,Mark,Nonspacing,"_bottom, bottom",,uni17D21784,,khmer,,KHMER LETTER NGO
-ca-khmer.below,,Coeng forms/Below-base,kh080,Mark,Nonspacing,"_bottom, bottom",,uni17D21785,,khmer,,KHMER LETTER CA
-cha-khmer.below,,Coeng forms/Below-base,kh082,Mark,Nonspacing,"_bottom, bottom",,uni17D21786,,khmer,,KHMER LETTER CHA
-co-khmer.below,,Coeng forms/Below-base,kh084,Mark,Nonspacing,"_bottom, bottom",,uni17D21787,,khmer,,KHMER LETTER CO
-cho-khmer.post,,Coeng forms/Post-base,kh086,Letter,Spacing,"top, bottom",,uni17D21788,,khmer,,KHMER LETTER CHO
-cho-khmer.post.low,,Coeng forms/Post-base,,Letter,Spacing,top,,uni17D21788.low,,khmer,,KHMER LETTER CHO
-nyo-khmer.below,,Coeng forms/Below-base,kh088,Mark,Nonspacing,"_bottom, bottom",,uni17D21789,,khmer,,KHMER LETTER NYO
-da-khmer.below,,Coeng forms/Below-base,kh090,Mark,Nonspacing,"_bottom, bottom",,uni17D2178A,,khmer,,KHMER LETTER DA
-ttha-khmer.below,,Coeng forms/Below-base,kh092,Mark,Nonspacing,"_bottom, bottom",,uni17D2178B,,khmer,,KHMER LETTER TTHA
-do-khmer.below,,Coeng forms/Below-base,kh094,Mark,Nonspacing,"_bottom, bottom",,uni17D2178C,,khmer,,KHMER LETTER DO
-ttho-khmer.post,,Coeng forms/Post-base,kh096,Letter,Spacing,top,,uni17D2178D,,khmer,,KHMER LETTER TTHO
-ttho-khmer.post.low,,Coeng forms/Post-base,,Letter,Spacing,top,,uni17D2178D.low,,khmer,,KHMER LETTER TTHO
-nno-khmer.below,,Coeng forms/Below-base,kh098,Mark,Nonspacing,"_bottom, bottom",,uni17D2178E,,khmer,,KHMER LETTER NNO
-ta-khmer.below,,Coeng forms/Below-base,kh100,Mark,Nonspacing,"_bottom, bottom",,uni17D2178F,,khmer,,KHMER LETTER TA
-tha-khmer.below,,Coeng forms/Below-base,kh102,Mark,Nonspacing,"_bottom, bottom",,uni17D21790,,khmer,,KHMER LETTER THA
-to-khmer.below,,Coeng forms/Below-base,kh104,Mark,Nonspacing,"_bottom, bottom",,uni17D21791,,khmer,,KHMER LETTER TO
-tho-khmer.below,,Coeng forms/Below-base,kh106,Mark,Nonspacing,"_bottom, bottom",,uni17D21792,,khmer,,KHMER LETTER THO
-no-khmer.below,,Coeng forms/Below-base,kh108,Mark,Nonspacing,"_bottom, bottom",,uni17D21793,,khmer,,KHMER LETTER NO
-ba-khmer.post,,Coeng forms/Post-base,kh110,Letter,Spacing,"top, bottom",,uni17D21794,,khmer,,KHMER LETTER BA
-ba-khmer.post.low,,Coeng forms/Post-base,,Letter,Spacing,top,,uni17D21794.low,,khmer,,KHMER LETTER BA
-pha-khmer.below,,Coeng forms/Below-base,kh112,Mark,Nonspacing,"_bottom, bottom",,uni17D21795,,khmer,,KHMER LETTER PHA
-po-khmer.below,,Coeng forms/Below-base,kh114,Mark,Nonspacing,"_bottom, bottom",,uni17D21796,,khmer,,KHMER LETTER PO
-pho-khmer.below,,Coeng forms/Below-base,kh116,Mark,Nonspacing,"_bottom, bottom",,uni17D21797,,khmer,,KHMER LETTER PHO
-mo-khmer.below,,Coeng forms/Below-base,kh118,Mark,Nonspacing,"_bottom, bottom",,uni17D21798,,khmer,,KHMER LETTER MO
-yo-khmer.post,,Coeng forms/Post-base,kh120,Letter,Spacing,"top, bottom",,uni17D21799,,khmer,,KHMER LETTER YO
-yo-khmer.post.low,,Coeng forms/Post-base,,Letter,Spacing,top,,uni17D21799.low,,khmer,,KHMER LETTER YO
-ro-khmer.pre,,Coeng forms/Pre-base,kh122,Letter,Spacing,,,uni17D2179A,,khmer,,KHMER LETTER RO
-ro-khmer.pre.low,,Coeng forms/Pre-base,,Letter,Spacing,,,uni17D2179A.low,,khmer,,KHMER LETTER RO
-lo-khmer.below,,Coeng forms/Below-base,kh124,Mark,Nonspacing,"_bottom, bottom",,uni17D2179B,,khmer,,KHMER LETTER LO
-vo-khmer.below,,Coeng forms/Below-base,kh126,Mark,Nonspacing,"_bottom, bottom",,uni17D2179C,,khmer,,KHMER LETTER VO
+ka-khmer.below,,Conjuncts/Below-base,kh070,Mark,Nonspacing,"_bottom, bottom",,uni17D21780,,khmer,,KHMER LETTER KA
+kha-khmer.below,,Conjuncts/Below-base,kh072,Mark,Nonspacing,"_bottom, bottom",,uni17D21781,,khmer,,KHMER LETTER KHA
+ko-khmer.below,,Conjuncts/Below-base,kh074,Mark,Nonspacing,"_bottom, bottom",,uni17D21782,,khmer,,KHMER LETTER KO
+kho-khmer.post,,Conjuncts/Post-base,kh076,Letter,Spacing,"top, bottom",,uni17D21783,,khmer,,KHMER LETTER KHO
+kho-khmer.post.low,,Conjuncts/Post-base,,Letter,Spacing,top,,uni17D21783.low,,khmer,,KHMER LETTER KHO
+ngo-khmer.below,,Conjuncts/Below-base,kh078,Mark,Nonspacing,"_bottom, bottom",,uni17D21784,,khmer,,KHMER LETTER NGO
+ca-khmer.below,,Conjuncts/Below-base,kh080,Mark,Nonspacing,"_bottom, bottom",,uni17D21785,,khmer,,KHMER LETTER CA
+cha-khmer.below,,Conjuncts/Below-base,kh082,Mark,Nonspacing,"_bottom, bottom",,uni17D21786,,khmer,,KHMER LETTER CHA
+co-khmer.below,,Conjuncts/Below-base,kh084,Mark,Nonspacing,"_bottom, bottom",,uni17D21787,,khmer,,KHMER LETTER CO
+cho-khmer.post,,Conjuncts/Post-base,kh086,Letter,Spacing,"top, bottom",,uni17D21788,,khmer,,KHMER LETTER CHO
+cho-khmer.post.low,,Conjuncts/Post-base,,Letter,Spacing,top,,uni17D21788.low,,khmer,,KHMER LETTER CHO
+nyo-khmer.below,,Conjuncts/Below-base,kh088,Mark,Nonspacing,"_bottom, bottom",,uni17D21789,,khmer,,KHMER LETTER NYO
+da-khmer.below,,Conjuncts/Below-base,kh090,Mark,Nonspacing,"_bottom, bottom",,uni17D2178A,,khmer,,KHMER LETTER DA
+ttha-khmer.below,,Conjuncts/Below-base,kh092,Mark,Nonspacing,"_bottom, bottom",,uni17D2178B,,khmer,,KHMER LETTER TTHA
+do-khmer.below,,Conjuncts/Below-base,kh094,Mark,Nonspacing,"_bottom, bottom",,uni17D2178C,,khmer,,KHMER LETTER DO
+ttho-khmer.post,,Conjuncts/Post-base,kh096,Letter,Spacing,top,,uni17D2178D,,khmer,,KHMER LETTER TTHO
+ttho-khmer.post.low,,Conjuncts/Post-base,,Letter,Spacing,top,,uni17D2178D.low,,khmer,,KHMER LETTER TTHO
+nno-khmer.below,,Conjuncts/Below-base,kh098,Mark,Nonspacing,"_bottom, bottom",,uni17D2178E,,khmer,,KHMER LETTER NNO
+ta-khmer.below,,Conjuncts/Below-base,kh100,Mark,Nonspacing,"_bottom, bottom",,uni17D2178F,,khmer,,KHMER LETTER TA
+tha-khmer.below,,Conjuncts/Below-base,kh102,Mark,Nonspacing,"_bottom, bottom",,uni17D21790,,khmer,,KHMER LETTER THA
+to-khmer.below,,Conjuncts/Below-base,kh104,Mark,Nonspacing,"_bottom, bottom",,uni17D21791,,khmer,,KHMER LETTER TO
+tho-khmer.below,,Conjuncts/Below-base,kh106,Mark,Nonspacing,"_bottom, bottom",,uni17D21792,,khmer,,KHMER LETTER THO
+no-khmer.below,,Conjuncts/Below-base,kh108,Mark,Nonspacing,"_bottom, bottom",,uni17D21793,,khmer,,KHMER LETTER NO
+ba-khmer.post,,Conjuncts/Post-base,kh110,Letter,Spacing,"top, bottom",,uni17D21794,,khmer,,KHMER LETTER BA
+ba-khmer.post.low,,Conjuncts/Post-base,,Letter,Spacing,top,,uni17D21794.low,,khmer,,KHMER LETTER BA
+pha-khmer.below,,Conjuncts/Below-base,kh112,Mark,Nonspacing,"_bottom, bottom",,uni17D21795,,khmer,,KHMER LETTER PHA
+po-khmer.below,,Conjuncts/Below-base,kh114,Mark,Nonspacing,"_bottom, bottom",,uni17D21796,,khmer,,KHMER LETTER PO
+pho-khmer.below,,Conjuncts/Below-base,kh116,Mark,Nonspacing,"_bottom, bottom",,uni17D21797,,khmer,,KHMER LETTER PHO
+mo-khmer.below,,Conjuncts/Below-base,kh118,Mark,Nonspacing,"_bottom, bottom",,uni17D21798,,khmer,,KHMER LETTER MO
+yo-khmer.post,,Conjuncts/Post-base,kh120,Letter,Spacing,"top, bottom",,uni17D21799,,khmer,,KHMER LETTER YO
+yo-khmer.post.low,,Conjuncts/Post-base,,Letter,Spacing,top,,uni17D21799.low,,khmer,,KHMER LETTER YO
+ro-khmer.pre,,Conjuncts/Pre-base,kh122,Letter,Spacing,,,uni17D2179A,,khmer,,KHMER LETTER RO
+ro-khmer.pre.low,,Conjuncts/Pre-base,,Letter,Spacing,,,uni17D2179A.low,,khmer,,KHMER LETTER RO
+lo-khmer.below,,Conjuncts/Below-base,kh124,Mark,Nonspacing,"_bottom, bottom",,uni17D2179B,,khmer,,KHMER LETTER LO
+vo-khmer.below,,Conjuncts/Below-base,kh126,Mark,Nonspacing,"_bottom, bottom",,uni17D2179C,,khmer,,KHMER LETTER VO
 sha-khmer.below,,Historic,kh128,Mark,Nonspacing,"_bottom, bottom",,uni17D2179D,,khmer,,KHMER LETTER SHA
 sso-khmer.post,,Historic,kh130,Letter,Spacing,"top, bottom",,uni17D2179E,,khmer,,KHMER LETTER SSO
 sso-khmer.post.low,,Historic,,Letter,Spacing,top,,uni17D2179E.low,,khmer,,KHMER LETTER SSO
-sa-khmer.post,,Coeng forms/Post-base,kh132,Letter,Spacing,"top, bottom",,uni17D2179F,,khmer,,KHMER LETTER SA
-sa-khmer.post.low,,Coeng forms/Post-base,,Letter,Spacing,top,,uni17D2179F.low,,khmer,,KHMER LETTER SA
-ha-khmer.below,,Coeng forms/Below-base,kh134,Mark,Nonspacing,"_bottom, bottom",,uni17D217A0,,khmer,,KHMER LETTER HA
-la-khmer.post,,Coeng forms/Post-base,kh136,Letter,Spacing,bottom,,uni17D217A1,,khmer,,KHMER LETTER LA
-qa-khmer.below,,Coeng forms/Below-base,kh138,Mark,Nonspacing,"_bottom, bottom",,uni17D217A2,,khmer,,KHMER LETTER QA
-qu-khmer.below,,Coeng forms/Below-base,,Mark,Nonspacing,"_bottom, bottom",,uni17D217A7,,khmer,,KHMER LETTER QU
-ry-khmer.below,,Coeng forms/Below-base,,Mark,Nonspacing,_bottom,,uni17D217AB,,khmer,,KHMER LETTER RY
-ryy-khmer.below,,Coeng forms/Below-base,,Mark,Nonspacing,_bottom,,uni17D217AC,,khmer,,KHMER LETTER RYY
-qe-khmer.below,,Coeng forms/Below-base,,Mark,Nonspacing,_bottom,,uni17D217AF,,khmer,,KHMER LETTER QU
+sa-khmer.post,,Conjuncts/Post-base,kh132,Letter,Spacing,"top, bottom",,uni17D2179F,,khmer,,KHMER LETTER SA
+sa-khmer.post.low,,Conjuncts/Post-base,,Letter,Spacing,top,,uni17D2179F.low,,khmer,,KHMER LETTER SA
+ha-khmer.below,,Conjuncts/Below-base,kh134,Mark,Nonspacing,"_bottom, bottom",,uni17D217A0,,khmer,,KHMER LETTER HA
+la-khmer.post,,Conjuncts/Post-base,kh136,Letter,Spacing,bottom,,uni17D217A1,,khmer,,KHMER LETTER LA
+qa-khmer.below,,Conjuncts/Below-base,kh138,Mark,Nonspacing,"_bottom, bottom",,uni17D217A2,,khmer,,KHMER LETTER QA
+qu-khmer.below,,Conjuncts/Below-base,,Mark,Nonspacing,"_bottom, bottom",,uni17D217A7,,khmer,,KHMER LETTER QU
+ry-khmer.below,,Conjuncts/Below-base,,Mark,Nonspacing,_bottom,,uni17D217AB,,khmer,,KHMER LETTER RY
+ryy-khmer.below,,Conjuncts/Below-base,,Mark,Nonspacing,_bottom,,uni17D217AC,,khmer,,KHMER LETTER RYY
+qe-khmer.below,,Conjuncts/Below-base,,Mark,Nonspacing,_bottom,,uni17D217AF,,khmer,,KHMER LETTER QU
 qaq-khmer,17A3,Letters,kh140,Letter,,bottom,,uni17A3,,khmer,,KHMER INDEPENDENT VOWEL QAQ
 qaa-khmer,17A4,Letters,kh142,Letter,Ligature,,,uni17A4,,khmer,,KHMER INDEPENDENT VOWEL QAA
 qi-khmer,17A5,Vowels/Independent,kh144,Letter,,,,uni17A5,,khmer,,KHMER INDEPENDENT VOWEL QI

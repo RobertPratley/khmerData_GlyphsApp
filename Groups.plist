@@ -204,7 +204,7 @@ languages = (
 			);
 		},
 		{
-			name = "Coeng forms";
+			name = "Conjuncts";
 			subGroup = (
 				{
 					name = "Post-base";
