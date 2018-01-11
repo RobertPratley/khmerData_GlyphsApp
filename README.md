@@ -6,7 +6,7 @@ See discussion at: https://forum.glyphsapp.com/t/missing-khmer-submenu-letters-m
 
 How to use:
 
-Data is stored in a csv file, containing relevant fields for building of new glyphData.xml data.
+Data is stored in a csv file, containing relevant fields for building of new glyphData.xml data (to be handled at a later stage).
 
 sortNames, and accents are currently stripped. These can be injected later via classes whilst names are being sorted.
 
