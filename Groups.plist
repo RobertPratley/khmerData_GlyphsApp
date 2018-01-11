@@ -43,8 +43,169 @@ languages = (
 			);
 		},
 		{
+			name = "Vowels";
+			subGroup = (
+				{
+					name = "Independent";
+					coverage = (
+						qi-khmer,
+						qii-khmer,
+						qu-khmer,
+						quk-khmer,
+						quu-khmer,
+						quuv-khmer,
+						ry-khmer,
+						ryy-khmer,
+						ly-khmer,
+						lyy-khmer,
+						qe-khmer,
+						qai-khmer,
+						qootypeone-khmer,
+						qootypetwo-khmer,
+						qau-khmer,
+					);
+				},
+				{
+					name = "Dependent";
+					coverage = (
+						aasign-khmer,
+						iMark-khmer,
+						iiMark-khmer,
+						yMark-khmer,
+						yyMark-khmer,
+						uMark-khmer,
+						uuMark-khmer,
+						uaMark-khmer,
+						oe-khmer,
+						ya-khmer,
+						ya-khmer.post,
+						ya-khmer.post.low,
+						ya-khmer.post.low2,
+						ie-khmer,
+						ie-khmer.post,
+						ie-khmer.post.low,
+						ie-khmer.post.low2,
+						e-khmer,
+						ae-khmer,
+						ai-khmer,
+						oo-khmer,
+						au-khmer,
+						au-khmer.post,
+					);
+				},
+			);
+		},
+		{
+			name = "Coeng forms";
+			subGroup = (
+				{
+					name = "Below-base";
+					coverage = (
+						ka-khmer.below,
+						kha-khmer.below,
+						ko-khmer.below,
+						ngo-khmer.below,
+						ca-khmer.below,
+						cha-khmer.below,
+						co-khmer.below,
+						nyo-khmer.below,
+						da-khmer.below,
+						ttha-khmer.below,
+						do-khmer.below,
+						nno-khmer.below,
+						ta-khmer.below,
+						tha-khmer.below,
+						to-khmer.below,
+						tho-khmer.below,
+						no-khmer.below,
+						pha-khmer.below,
+						po-khmer.below,
+						pho-khmer.below,
+						mo-khmer.below,
+						lo-khmer.below,
+						vo-khmer.below,
+						ha-khmer.below,
+						qa-khmer.below,
+						qu-khmer.below,
+						ry-khmer.below,
+						ryy-khmer.below,
+						qe-khmer.below,
+					);
+				},
+				{
+					name = "Post-base";
+					coverage = (
+						kho-khmer.post,
+						kho-khmer.post.low,
+						cho-khmer.post,
+						cho-khmer.post.low,
+						ttho-khmer.post,
+						ttho-khmer.post.low,
+						ba-khmer.post,
+						ba-khmer.post.low,
+						yo-khmer.post,
+						yo-khmer.post.low,
+						sa-khmer.post,
+						sa-khmer.post.low,
+						la-khmer.post,
+					);
+				},
+				{
+					name = "Pre-base";
+					coverage = (
+						ro-khmer.pre,
+						ro-khmer.pre.low,
+					);
+				},
+			);
+		},
+		{
+			name = "Ligatures";
+			coverage = (
+				ba_aasign-khmer,
+				ba_au-khmer,
+			);
+		},
+		{
+			name = "Marks";
+			coverage = (
+				aq-khmer,
+				aa-khmer,
+				nikahit-khmer,
+				muusikatoan-khmer,
+				triisap-khmer,
+				bantoc-khmer,
+				robat-khmer,
+				toandakhiat-khmer,
+				kakabat-khmer,
+				ahsda-khmer,
+				samyoksannya-khmer,
+				viriam-khmer,
+				bathamasat-khmer,
+				atthacan-khmer,
+				reahmuk-khmer,
+				yuukaleapintu-khmer,
+				coeng-khmer,
+			);
+		},
+		{
 			name = "Numerals";
 			subGroup = (
+				{
+					name = "Basic";
+					coverage = (
+						zero-khmer,
+						one-khmer,
+						two-khmer,
+						three-khmer,
+						four-khmer,
+						five-khmer,
+						six-khmer,
+						seven-khmer,
+						eight-khmer,
+						nine-khmer,
+					);
+				},
 				{
 					name = "Lunar";
 					coverage = (
@@ -97,21 +258,6 @@ languages = (
 						lekattakpramBuon-khmer,
 					);
 				},
-				{
-					name = "Basic";
-					coverage = (
-						zero-khmer,
-						one-khmer,
-						two-khmer,
-						three-khmer,
-						four-khmer,
-						five-khmer,
-						six-khmer,
-						seven-khmer,
-						eight-khmer,
-						nine-khmer,
-					);
-				},
 			);
 		},
 		{
@@ -119,162 +265,6 @@ languages = (
 			coverage = (
 				qaq-khmer,
 				qaa-khmer,
-			);
-		},
-		{
-			name = "Vowels";
-			subGroup = (
-				{
-					name = "Dependent";
-					coverage = (
-						aasign-khmer,
-						iMark-khmer,
-						iiMark-khmer,
-						yMark-khmer,
-						yyMark-khmer,
-						uMark-khmer,
-						uuMark-khmer,
-						uaMark-khmer,
-						oe-khmer,
-						ya-khmer,
-						ya-khmer.post,
-						ya-khmer.post.low,
-						ya-khmer.post.low2,
-						ie-khmer,
-						ie-khmer.post,
-						ie-khmer.post.low,
-						ie-khmer.post.low2,
-						e-khmer,
-						ae-khmer,
-						ai-khmer,
-						oo-khmer,
-						au-khmer,
-						au-khmer.post,
-					);
-				},
-				{
-					name = "Independent";
-					coverage = (
-						qi-khmer,
-						qii-khmer,
-						qu-khmer,
-						quk-khmer,
-						quu-khmer,
-						quuv-khmer,
-						ry-khmer,
-						ryy-khmer,
-						ly-khmer,
-						lyy-khmer,
-						qe-khmer,
-						qai-khmer,
-						qootypeone-khmer,
-						qootypetwo-khmer,
-						qau-khmer,
-					);
-				},
-			);
-		},
-		{
-			name = "Ligatures";
-			coverage = (
-				ba_aasign-khmer,
-				ba_au-khmer,
-			);
-		},
-		{
-			name = "Marks";
-			coverage = (
-				aq-khmer,
-				aa-khmer,
-				nikahit-khmer,
-				muusikatoan-khmer,
-				triisap-khmer,
-				bantoc-khmer,
-				robat-khmer,
-				toandakhiat-khmer,
-				kakabat-khmer,
-				ahsda-khmer,
-				samyoksannya-khmer,
-				viriam-khmer,
-				bathamasat-khmer,
-				atthacan-khmer,
-				reahmuk-khmer,
-				yuukaleapintu-khmer,
-				coeng-khmer,
-			);
-		},
-		{
-			name = "Conjuncts";
-			subGroup = (
-				{
-					name = "Post-base";
-					coverage = (
-						kho-khmer.post,
-						kho-khmer.post.low,
-						cho-khmer.post,
-						cho-khmer.post.low,
-						ttho-khmer.post,
-						ttho-khmer.post.low,
-						ba-khmer.post,
-						ba-khmer.post.low,
-						yo-khmer.post,
-						yo-khmer.post.low,
-						sa-khmer.post,
-						sa-khmer.post.low,
-						la-khmer.post,
-					);
-				},
-				{
-					name = "Pre-base";
-					coverage = (
-						ro-khmer.pre,
-						ro-khmer.pre.low,
-					);
-				},
-				{
-					name = "Below-base";
-					coverage = (
-						ka-khmer.below,
-						kha-khmer.below,
-						ko-khmer.below,
-						ngo-khmer.below,
-						ca-khmer.below,
-						cha-khmer.below,
-						co-khmer.below,
-						nyo-khmer.below,
-						da-khmer.below,
-						ttha-khmer.below,
-						do-khmer.below,
-						nno-khmer.below,
-						ta-khmer.below,
-						tha-khmer.below,
-						to-khmer.below,
-						tho-khmer.below,
-						no-khmer.below,
-						pha-khmer.below,
-						po-khmer.below,
-						pho-khmer.below,
-						mo-khmer.below,
-						lo-khmer.below,
-						vo-khmer.below,
-						ha-khmer.below,
-						qa-khmer.below,
-						qu-khmer.below,
-						ry-khmer.below,
-						ryy-khmer.below,
-						qe-khmer.below,
-					);
-				},
-			);
-		},
-		{
-			name = "Historic";
-			coverage = (
-				sha-khmer,
-				sso-khmer,
-				sha-khmer.below,
-				sso-khmer.post,
-				sso-khmer.post.low,
 			);
 		},
 		{
@@ -289,6 +279,16 @@ languages = (
 				koomuut-khmer,
 				riel-khmer,
 				avakrahasanya-khmer,
+			);
+		},
+		{
+			name = "Historic";
+			coverage = (
+				sha-khmer,
+				sso-khmer,
+				sha-khmer.below,
+				sso-khmer.post,
+				sso-khmer.post.low,
 			);
 		},
 	);
